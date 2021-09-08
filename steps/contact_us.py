@@ -11,7 +11,7 @@ def step_impl(context):
 @when('the user navigates to the "Get in touch" section to fill the form')
 def step_impl(context):
     context.current_page = contact_usPagePageObject()
-    context.current_page.fill_get_in_touch_us_form()
+    context.current_page.fill_get_in_touch_form()
 
 
 @then('the form fields should be filled and submitted')
