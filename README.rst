@@ -26,9 +26,9 @@ On the terminal hit the following commands
 
     $ git clone https://github.com/sammy-nyubs/sovtech-project.git
     
-    $ cd sovtech-mini-project
+    $ cd sovtech
     
-    $ cd sovtech-mini-project (again, yep)
+    $ cd features
 
     $ pip install -r requirements.txt
 
@@ -46,23 +46,15 @@ chrome driver must be downloaded and configured:
     chrome_driver_path: C:\Drivers\chromedriver.exe
 
 To run all tests:
-
-Now that you are on the sovtech-mini-project directory.
-
-Ensure you are on the second sovtech-mini-project directory.
-
-On the terminal hit the following command
-
-    $ cd features
-
+   
 
 Your present directory should look something like this:
 
-    $ sovtech-mini-project\\sovtech-min-project\\features>
-
+    $ sovtech\features>
+    
     $ run behave
 
 Should like this:
 
-    $ sovtech-mini-project\\sovtech-min-project\\features> behave
+    $ sovtech\\features> behave
 
