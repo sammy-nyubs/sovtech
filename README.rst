@@ -50,11 +50,11 @@ To run all tests:
 
 Your present directory should look something like this:
 
-    $ sovtech\features>
+    $ sovtech\\features>
     
     $ run behave
 
-Should like this:
+Should look like this:
 
     $ sovtech\\features> behave
 
