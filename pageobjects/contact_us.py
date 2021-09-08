@@ -28,7 +28,7 @@ class contact_usPagePageObject(PageObject):
         self.get_in_touch.wait_until_visible()
         return self
 
-    def fill_get_in_touch_us_form(self):
+    def fill_get_in_touch_form(self):
         """ Fill the get in touch form and submit
 
         :returns: this page object instance
