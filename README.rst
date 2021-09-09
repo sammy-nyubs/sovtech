@@ -26,7 +26,7 @@ On the terminal hit the following commands
 
     $ git clone https://github.com/sammy-nyubs/sovtech.git
     
-    $ cd sammy-nyubs\\sovtech
+    $ cd sovtech-main\\sovtech-main
     
     $ cd features
 
@@ -50,11 +50,11 @@ To run all tests:
 
 Your present directory should look something like this:
 
-    $ sammy-nyubs\\sovtech\\features>
+    $ sovtech-main\\sovtech-main\\features>
     
     $ run behave
 
 Should look like this:
 
-    $ sammy-nyubs\\sovtech\\features>
+    $ sovtech-main\\sovtech-main\\features>
 
