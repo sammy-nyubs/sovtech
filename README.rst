@@ -24,7 +24,7 @@ It's highly recommendable to use a virtualenv.
 
 On the terminal hit the following commands
 
-    $ git clone https://github.com/sammy-nyubs/sovtech-project.git
+    $ git clone https://github.com/sammy-nyubs/sovtech.git
     
     $ cd sovtech
     
