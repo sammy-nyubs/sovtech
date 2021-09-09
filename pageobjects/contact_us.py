@@ -6,8 +6,6 @@ import time
 class contact_usPagePageObject(PageObject):
 
     def init_page_elements(self):
-        self.legal_consent_checkbx = (By.XPATH, "//input[@id='LEGAL_CONSENT.subscription_type_10841063-c2e387f9-4bd8-496f-ab2a-81fbbc31712a']")
-        self.submit_btn = (By.XPATH, "//input[@id='LEGAL_CONSENT.subscription_type_10841063-c2e387f9-4bd8-496f-ab2a-81fbbc31712a']")
         self.get_in_touch = (By.XPATH, "//h2[contains(text(),'Get in touch')]")
 
 
