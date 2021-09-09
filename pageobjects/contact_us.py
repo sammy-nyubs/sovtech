@@ -19,7 +19,7 @@ class contact_usPagePageObject(PageObject):
         return self
 
     def wait_until_loaded(self):
-        """ Wait until contact-us page page is loaded
+        """ Wait until contact-us page is loaded
 
         :returns: this page object instance
         """
